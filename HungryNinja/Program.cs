@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Hello.NETCore
+namespace HungryNinja
 {
     // Create a Food class - DONE
     class Food
